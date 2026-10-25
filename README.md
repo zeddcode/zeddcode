@@ -1,5 +1,5 @@
 
-# Hi, I'm Zedd Hillary 👋
+# Hi, I'm Zedd Hillary :)
 
 I'm a **Software Developer & Designer** passionate about building modern web applications, developing practical software solutions, and creating visually engaging digital experiences. I enjoy combining code and creativity to turn ideas into functional, user-friendly products, from responsive websites and backend systems to UI/UX designs and graphics. I'm continuously exploring new technologies, improving my skills, and working on projects that solve real-world problems.
 
